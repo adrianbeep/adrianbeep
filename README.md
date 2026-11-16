@@ -7,6 +7,8 @@ Construyo software de escritorio y APIs. Vengo del lado **Windows** con **Window
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-adrianbeep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianbeep)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![.NET](https://img.shields.io/badge/.NET-8.0%20%7C%2010.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 
 ---
 
