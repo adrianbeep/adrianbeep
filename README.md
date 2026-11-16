@@ -51,3 +51,26 @@ Construyo software de escritorio y APIs. Vengo del lado **Windows** con **Window
 [![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://nunit.org/)
 
 - **Git** · **GitHub Actions** (CI con build + tests y CD con publicación) · **Docker** (build multi-stage y `docker-compose`) · **NuGet** (global tools) · **xUnit / NUnit** con FluentAssertions.
+---
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<!---->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=adrianbeep&show_icons=true&count_private=true&theme=transparent&title_color=ffffff&icon_color=666666&text_color=ffffff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=adrianbeep&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=adrianbeep&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+<!---->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=adrianbeep&layout=compact&langs_count=8&hide=c%2B%2B,typescript,html,css,astro,cmake,javascript&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=adrianbeep&layout=compact&langs_count=8&hide=c%2B%2B,typescript,html,css,astro,cmake,javascript&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=adrianbeep&layout=compact&langs_count=8&hide=c%2B%2B,typescript,html,css,astro,cmake,javascript&theme=default" height="200px">
+  </picture>
+<!---->
+</div>
+
+
+
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=adrianbeep&theme=transparent&ring=666666&fire=666666&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak" height="200px"/>
+</div>
